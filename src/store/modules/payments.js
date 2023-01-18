@@ -12,10 +12,10 @@ const state = {
     serverUrl: 'https://e2payments.explicador.co.mz',
     // Testes em produção
     credentials: {
-        walletId: 693794, //Carteira de testes gerais
-    //    walletId: 132722, //Carteira em produção de Mawonelo
-        CLIENT_ID: '9613e115-c047-410b-9691-d6de5c3bbc11',
-        CLIENT_SECRET: 'lzP6tY0o93dBpqVdEFKoUgDjthzBLfk9NViqYyDY'
+        walletId: PUT_YOUR_OWN_WALLET_ID_HERE, //Carteira de testes gerais
+    //    
+        CLIENT_ID: 'YOUR_OWN_CLIENT_ID',
+        CLIENT_SECRET: 'YOUR_OWN_CLIENT_SECRET'
     }
 }
 
